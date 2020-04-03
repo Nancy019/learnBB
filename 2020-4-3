@@ -9,3 +9,11 @@ find a proper theta, which under theta we can get the observed value with the ma
 
 We want to get the parameter theta just to fit the distribution, and use it easily.
 
+
+##Variational inference
+
+###multinomial distribution
+it models the probability of counts for each side of a k-sided die rolled n times
+https://online.stat.psu.edu/stat504/node/40/
+
+
