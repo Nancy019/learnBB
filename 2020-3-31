@@ -1,12 +1,30 @@
 ##1. Prior And Posterior
 
+
 https://www.youtube.com/watch?v=R9NQY2Hyl14
 
 prior : based on our past experience, and we don't see the data
 
 posterior : based on the data, we get the parameter, and we consider the new data
 
+
 https://blog.csdn.net/shenxiaoming77/article/details/77505549 先验概率与后验概率，似然估计
+
+
+arXiv:1711.03560 [stat.ML]
+Yesterday I found an formula in the paper above, page 10 Eq10, and unfortunately I don't know how to deduce the result from left
+to right. After a friend tell me how to deduce, I seriously thought about it and I thought their are two main reasons why I don't know
+how to solve the problem.
+
+The first one is, I really don't undersatnd what conditional probability is. Every time I encounter a similiar problem, I didn't 
+think about it by myself and I thought using the equation is just fine. I really need to think more about it. I just using my hands 
+without my brain.
+
+The other one is, I thought the derivation would be very complicated, and I was afraid that I can't get the answer. I thought my problem 
+was not enough knowledge, but I was wrong.
+
+So I hope in the future, I can think more when I learn something new, and I can have a try when I have no idea. Maybe I always make 
+things more complicated.
 
 ##2. Bayesian and Frequentist
 
