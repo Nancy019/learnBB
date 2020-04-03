@@ -1,0 +1,11 @@
+write at the beginning: an hour a day for me on learnBB is not enough,hhhhhh
+
+##maximum likelihood
+
+https://www.youtube.com/watch?v=XepXtl9YKwc
+
+data shows below, and p-theta chart shows above, I think is an interesting way to show the idea of maximum likelihood. We want to 
+find a proper theta, which under theta we can get the observed value with the maximum probability.
+
+We want to get the parameter theta just to fit the distribution, and use it easily.
+
