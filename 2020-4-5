@@ -1,0 +1,18 @@
+#MCMC
+(markov chain monte carlo)
+
+goal: sample from p(complicated distribution), approximate Ef(X),X~p (high dimension, complicated)
+
+https://www.youtube.com/watch?v=12eZWG0Z5gY&t=637s
+example about phase diagram
+
+#Self-Delimiting Neural Networks
+
+https://arxiv.org/pdf/1210.0118.pdf
+
+I just read the abstract and the conclusion
+
+I first noticed SLNN in a paper which describe a model about forces that drive the customer to buy products and how the items 
+interact with each other. In this model, they define a checkout item, and when the customer select the item then the shopping 
+end. They mentioned in their paper that the checkout item is related with the 'halt neoron' in SLNN, which is used to signal 
+the end of a sequence.
